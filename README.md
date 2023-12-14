@@ -14,7 +14,6 @@ i made a weather app in VUE.js! this application provides real-time weather upda
 
 - **Real-time Weather:** Get up-to-date weather information for any location.
 - **User-friendly Interface:** Intuitive design for seamless user experience.
-- **Responsive Design:** Works flawlessly on various devices.
 
 ## 🚀 Installation
 
