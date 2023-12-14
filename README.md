@@ -6,7 +6,7 @@ i made a weather app in VUE.js! this application provides real-time weather upda
 
 <div align="center">
   <img src="final-img/Screen Shot 2023-12-14 at 12.54.50.png" alt="Screenshot 1" width="200"/>
-  <img src="final-img/Screen Shot 2023-12-14 at 12.55.03.pngg" alt="Screenshot 2" width="200"/>
+  <img src="final-img/Screen Shot 2023-12-14 at 12.55.03.png" alt="Screenshot 2" width="200"/>
   <img src="final-img/Screen Shot 2023-12-14 at 12.55.24.png" alt="Screenshot 3" width="200"/>
 </div>
 
