@@ -17,7 +17,7 @@ i made a weather app in VUE.js! this application provides real-time weather upda
 
 ## 🚀 Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/weather-app.git`
+1. Clone the repository: `git clone https://github.com/comethrusws/weather-app.git`
 2. Install dependencies: `cd weather-app && npm install`
 3. Get your API key from [OpenWeatherMap](https://openweathermap.org/api) and replace `YOUR_API_KEY` in `src/api/weatherService.js` with your API key.
 
